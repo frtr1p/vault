@@ -7,7 +7,7 @@ require (
 	github.com/Microsoft/hcsshim v0.8.9 // indirect
 	github.com/armon/go-metrics v0.3.3
 	github.com/armon/go-radix v1.0.0
-	github.com/aws/aws-sdk-go v1.30.27
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/containerd/containerd v1.3.4 // indirect
 	github.com/containerd/continuity v0.0.0-20200709052629-daa8e1ccc0bc // indirect
 	github.com/docker/distribution v2.7.1+incompatible // indirect
